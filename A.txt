@@ -1,1 +1,2 @@
 First time file is created.
+Added new code, so that it wil get conflicited
